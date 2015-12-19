@@ -1,7 +1,7 @@
 DRAGON BOT
 
-# (DrAGonbot)[telegram.me/teledragon
-# (ArASH)[telegram.me/arash_admin_dragon]
+# [DrAGonbot](telegram.me/teledragon)
+ [ArASH macker](telegram.me/arash_admin_dragon)
 
 ```bash
 sudo apt-get update
